@@ -1,0 +1,30 @@
+Step 1: Download the Dataset.
+
+	  https://www.kaggle.com/datasets/astralfate/iot23-dataset
+	  https://www.kaggle.com/datasets/dhoogla/unswnb15
+          https://www.kaggle.com/datasets/dhoogla/cicddos2019
+          https://www.kaggle.com/datasets/vigneshvenkateswaran/bot-iot
+
+Step 2: Open the Python Application.
+
+	Open the provided Python script in your preferred IDE or code editor.
+
+Step 3: Set Dataset Path.
+
+	Update the script to include the correct path to the folder where you downloaded and extracted the dataset.
+
+Step 4: Train/Test Split.
+
+	The data will automatically be split with the following ratio:
+
+	Training set: 80%
+	
+	Testing set: 20%
+
+Step 5: Run the Code.
+
+	Execute the script to begin training and evaluation.
+
+Step 6: View the Results.
+
+	The output, including model performance metrics, will be displayed in the terminal.
